@@ -4,7 +4,7 @@ Resizes HTML5 video via Javascript and classnames.
 
 # Usage
 ##
-Please use this with caution. Seince this may change core files of your site via Javascript (only client side), make sure to test this locally first before installing it on you're web server. \
+Please use this with caution. _Since_ this may change core files of your site via Javascript (only client side), make sure to test this locally first before installing it on you're web server. \
 
 # Setup
 ##
