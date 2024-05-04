@@ -1,10 +1,11 @@
 # html-video-resizer
+##
 Resizes HTML5 video via Javascript and classnames.
 
 # Setup
-Download the `video_resizer.js` and `video_resizer.css`, then link them like so:
 ##
-`<link rel="stylesheet" href="video_resizable.css">` 
+Download the `video_resizer.js` and `video_resizer.css`, then link them like so: /
+`<link rel="stylesheet" href="video_resizable.css">` /
 ##
 `<script src="video_resizable.js"></script>` 
 ##
