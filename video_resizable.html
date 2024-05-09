@@ -6,15 +6,17 @@
 <center>
 	<link rel="stylesheet" href="video_resizable.css">
 <div id="container">
-	<video width="320" height="240" controls id="video" class="hover round">
+	<video width="320" height="240" id="video" class="hover round">
 		<source src="video.mp4" type="video/mp4">
 	</video>
 <div>
 <br />
+<button class="hover round" onclick="play();">Play</button>
+<button class="hover round" onclick="pause();">Stop</button>
+<button class="hover round" onclick="fullscreen();">Fullscreen</button>
+<br />
 <input type='range' class="round" min='10' max='1000' step='10' id='slider' value='10' />
 <script src="video_resizable.js"></script>
-<button class="hover round" onclick="vid();">Resize</button>
-<button class="hover round" onclick="fullscreen();">Resize</button>
-</center>
+<button class="hover round" onclick="resize();">Resize</button></center>
 </body>
 </html>
